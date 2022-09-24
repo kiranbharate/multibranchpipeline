@@ -9,7 +9,7 @@ pipeline {
 				stage ("stage-1"){
 					steps {
 					
-						git "https://github.com/awantika-kamble/project.git"
+						git "https://github.com/kiranbharate/multibranchpipeline.git"
 					}
 				
 				}
